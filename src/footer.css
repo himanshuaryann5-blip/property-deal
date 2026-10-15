@@ -1,0 +1,16 @@
+.footer-credit {
+  margin-left: auto;
+  text-align: right;
+}
+
+.footer-credit strong {
+  color: #68717b;
+  font-weight: 700;
+}
+
+@media (max-width: 760px) {
+  .footer-credit {
+    margin-left: 0;
+    text-align: left;
+  }
+}
